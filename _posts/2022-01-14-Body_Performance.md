@@ -30,7 +30,7 @@ body_performance_data.head()
 
 
 
-<div style="overflow-x:auto;">
+<div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
