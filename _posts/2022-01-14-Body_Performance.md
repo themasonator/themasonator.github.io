@@ -44,7 +44,7 @@ body_performance_data.head()
         text-align: right;
     }
     
-    table {
+    div {
         overflow: auto;
     }
 </style>
