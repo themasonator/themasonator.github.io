@@ -1350,10 +1350,3 @@ cm_table.head()
   </tbody>
 </table>
 </div>
-
-
-
-
-```python
-
-```
