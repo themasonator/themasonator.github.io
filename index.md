@@ -1,6 +1,6 @@
 Hello and welcome. I am Harry Mason, a Computer Science student from Bedford, looking to find summer internships.
 
-![Image of fast.ai logo](images/profilePhoto.jpeg)
+<img src="images/profilePhoto.jpeg" width="200" height="200" />
 
 ## Current State of Completion, and What's to Come
 
