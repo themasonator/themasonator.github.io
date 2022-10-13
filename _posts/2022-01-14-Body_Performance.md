@@ -30,7 +30,7 @@ body_performance_data.head()
 
 
 
-<div>
+<div overflow-x="auto">
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -168,7 +168,7 @@ body_performance_data.describe()
 
 
 
-<div>
+<div overflow-x="auto">
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -368,7 +368,7 @@ numeric_features.head()
 
 
 
-<div>
+<div overflow-x="auto">
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -482,7 +482,7 @@ numeric_features.describe()
 
 
 
-<div>
+<div overflow-x="auto">
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -634,7 +634,7 @@ categorical_features.head()
 
 
 
-<div>
+<div overflow-x="auto">
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -692,7 +692,7 @@ categorical_features.sample(10)
 
 
 
-<div>
+<div overflow-x="auto">
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -771,7 +771,7 @@ target.head()
 
 
 
-<div>
+<div overflow-x="auto">
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -848,7 +848,7 @@ processed_features.head()
 
 
 
-<div>
+<div overflow-x="auto">
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -1298,7 +1298,7 @@ cm_table.head()
 
 
 
-<div>
+<div overflow-x="auto">
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
