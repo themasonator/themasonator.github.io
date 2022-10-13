@@ -2,6 +2,11 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+## Current State of Completion, and What's to Come
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+# Completed projects:
+[example](https://www.fast.ai).
+
+# Projects Under Construction
+
+# Planned Projects
