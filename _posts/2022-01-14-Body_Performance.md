@@ -43,6 +43,10 @@ body_performance_data.head()
     .dataframe thead th {
         text-align: right;
     }
+    
+    table {
+        overflow: auto;
+    }
 </style>
 <table border="1" class="dataframe">
   <thead>
