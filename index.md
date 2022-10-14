@@ -5,8 +5,14 @@ Hello and welcome. I am Harry Mason, a Computer Science student from Bedford. I 
 ## Current State of Completion, and What's to Come
 
 ### Completed projects:
-[example](https://www.fast.ai).
+[Multiclass Classification on the Body Performance Dataset]([https://www.fast.ai](https://themasonator.github.io/2022/01/14/Body_Performance.html)).
+Time Series Regression on the Python Stackoverflow Dataset <- the link will be added once the project is uploaded
 
-### Projects Under Construction
+### Projects Under Construction:
 
-### Planned Projects
+Skin Lesion Detection Using Image Classification
+
+### Planned Projects:
+
+A natural language processing project.
+A series of web apps that implement machine learning algorithms.
