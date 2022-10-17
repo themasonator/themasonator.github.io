@@ -2346,7 +2346,7 @@ plt.show()
 
 
 
-![png](time-series-data/output_18_1.png)
+![png](/images/time-series-data/output_18_1.png)
 
 
 
@@ -2372,7 +2372,7 @@ frame.resid.plot()
 
 
 
-![png](time-series-data/output_21_1.png)
+![png](/images/time-series-data/output_21_1.png)
 
 
 ### Analysing Correlations
@@ -2401,7 +2401,7 @@ ax
 
 
 
-![png](time-series-data/output_23_1.png)
+![png](/images/time-series-data/output_23_1.png)
 
 
 
@@ -2418,7 +2418,7 @@ df["Pygtk"].plot()
 
 
 
-![png](time-series-data/output_24_1.png)
+![png](/images/time-series-data/output_24_1.png)
 
 
 
@@ -2434,7 +2434,7 @@ df["Apache"].plot()
 
 
 
-![png](time-series-data/output_25_1.png)
+![png](/images/time-series-data/output_25_1.png)
 
 
 
@@ -2450,7 +2450,7 @@ df["matlab"].plot()
 
 
 
-![png](images/time-series-data/output_26_1.png)
+![png](/images/time-series-data/output_26_1.png)
 
 
 In this closer inspection, the near-linear relation between month and python as shown by the decomposition is apparent. One noticeable problem is detectable here: matlab and matlab.1 are very highly correlated. They could reasonably be duplicates, so matlab.1 is removed.
@@ -4631,7 +4631,7 @@ window.plot()
 ```
 
 
-![png](time-series-data/output_17_0.png)
+![png](/images/time-series-data/output_17_0.png)
 
 
 Here the windows are combined to make one dataset for the models.
@@ -4798,7 +4798,7 @@ wide_window.plot(baseline)
 ```
 
 
-![png](time-series-data/output_30_0.png)
+![png](/images/time-series-data/output_30_0.png)
 
 
 That performed as well as imagined.
@@ -5539,7 +5539,7 @@ _ = axis.set_xticklabels(train_df.columns, rotation=90)
 ```
 
 
-![png](time-series-data/output_37_0.png)
+![png](/images/time-series-data/output_37_0.png)
 
 
 As can be seen here, python has a medium weight, where it has a clear positive trend that would be expected to give it a higher weight than all other features. This is likely a case of the random state impacting the outcome. This should establish linear models as unsuitable for multiregression.
@@ -5679,7 +5679,7 @@ wide_window.plot(dense)
 ```
 
 
-![png](images/time-series-data/output_40_0.png)
+![png](/images/time-series-data/output_40_0.png)
 
 
 It has a performance very similar to the baseline and appears to be fitting quite well to teh data. Perhaps if given more training data it would significantly outperform the baseline.
@@ -5786,7 +5786,7 @@ window.plot(multi_step_dense)
 ```
 
 
-![png](time-series-data/output_43_0.png)
+![png](/images/time-series-data/output_43_0.png)
 
 
 The increased dimensionality from seeing more of the dataset causes clear overfitting with the difference in loss between training and validation MAE.
@@ -5971,7 +5971,7 @@ wide_conv_window.plot(conv_model)
 ```
 
 
-![png](time-series-data/output_49_0.png)
+![png](/images/time-series-data/output_49_0.png)
 
 
 
@@ -6010,7 +6010,7 @@ _ = plt.legend()
 ```
 
 
-![png](time-series-data/output_52_0.png)
+![png](/images/time-series-data/output_52_0.png)
 
 
 
@@ -6029,6 +6029,6 @@ for name, value in performance.items():
 ## Models Exclusively Trained on Python
 As the almost linear relationship between python questions and the month is clear. I decided to test these models on a dataset of only python data, with a window size of 6 since the dimensionality will still be low as there is only one feature. It attained these results:
 
-![png](time-series-data/final graph.png)
+![png](/images/time-series-data/final graph.png)
 This is the convolutional network's graph. Notice the smoothness as a result of its inflexibility. This limits overfitting. Since there are no other variables present, this model will be resilient to future changes in the other libraries usage. This is clearly the best model for prediction.
-![png](time-series-data/output_38_0.png)
+![png](/images/time-series-data/output_38_0.png)
