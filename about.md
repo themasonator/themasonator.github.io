@@ -40,12 +40,12 @@ I am a Computer Science student from Bedford looking for Summer internships.
   method="POST"
 >
   <label>
-    Your email:
+    Your email:<br>
     <input type="email" name="email">
-  </label>
+  </label><br>
   <label>
-    Your message:
-    <textarea name="message"></textarea>
+    Your message:<br>
+    <textarea name="message"></textarea><br>
   </label>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
