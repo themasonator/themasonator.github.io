@@ -3,11 +3,6 @@ Hello and welcome. I am Harry Mason, a Computer Science student from Bedford. I 
 <img src="images/profilePhoto.jpeg" width="200" height="200" />
 
 ## Current State of Completion, and What's to Come
-
-### Completed projects:
-[Multiclass Classification on the Body Performance Dataset]([https://www.fast.ai](https://themasonator.github.io/2022/01/14/Body_Performance.html)).<br>
-[Time Series Regression on the Python Stackoverflow Dataset](https://themasonator.github.io/2022/10/17/Time-Series_Multiregression_Using_High_Dimensionality_data.html)
-
 ### Projects Under Construction:
 
 Skin Lesion Detection Using Image Classification
