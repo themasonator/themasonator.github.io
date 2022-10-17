@@ -2,7 +2,7 @@ Hello and welcome. I am Harry Mason, a Computer Science student from Bedford. I 
 
 <img src="images/profilePhoto.jpeg" width="200" height="200" />
 
-## Current State of Completion, and What's to Come
+## What's Next?
 ### Projects Under Construction:
 
 Skin Lesion Detection Using Image Classification
