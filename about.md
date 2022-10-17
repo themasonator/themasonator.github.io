@@ -1,7 +1,7 @@
 # About
 
-<div>
-<img src="images/profilePhoto.jpeg" width="200" height="200" align="left" style="margin: 0px 10px 0px 0px;"/>
+<div height = "100">
+<img src="images/profilePhoto.jpeg" width="100" height="100" align="left" style="margin: 0px 10px 0px 0px;"/>
 I am a Computer Science student from Bedford looking for Summer internships. 
 </div>
 
