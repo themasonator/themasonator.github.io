@@ -5,7 +5,7 @@
 I am Harry Mason. I am university educated in Computer Science and an avid reader in Mathematics, particularly statistics. I am posting my personal projects on here, mostly consisting of applications of deep learning and statistics.
 </div>
 
-# Contact me here
+# Contact Me Here
 <form
   action="https://formspree.io/f/mbjbalra"
   method="POST"
@@ -50,20 +50,3 @@ I am Harry Mason. I am university educated in Computer Science and an avid reade
     <td>01/09/2023</td>
   </tr>
 </table>
-
-# Contact me here:
-<form
-  action="https://formspree.io/f/mbjbalra"
-  method="POST"
->
-  <label>
-    Your email:<br>
-    <input type="email" name="email">
-  </label><br>
-  <label>
-    Your message:<br>
-    <textarea name="message"></textarea><br>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
