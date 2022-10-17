@@ -5,6 +5,23 @@
 I am Harry Mason. I am educated in Computer Science and Mathematics. I am posting on
 </div>
 
+# Contact me here
+<form
+  action="https://formspree.io/f/mbjbalra"
+  method="POST"
+>
+  <label>
+    Your email:<br>
+    <input type="email" name="email">
+  </label><br>
+  <label>
+    Your message:<br>
+    <textarea name="message"></textarea><br>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+
 
 ## What's Next?
 <table>
