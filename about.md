@@ -1,4 +1,50 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+<img src="images/profilePhoto.jpeg" width="200" height="200" align="left"/>
+I am a Computer Science student from Bedford looking for Summer internships.
 
+
+## What's Next?
+<table>
+  <b>
+  <tr>
+    <th>Task</th>
+    <th>Target Completion Date</th>
+  </tr>
+  <tr>
+    <th colspan="2">In Progress</th>
+  </tr>
+    </b>
+  <tr>
+    <td>Skin Lesion Detection Using Image Classification</td>
+    <td>01/12/2022</td>
+  </tr>
+  <tr>
+    <th colspan="2">Planned Next Steps</th>
+  </tr>
+  <tr>
+    <td>A natural language processing project</td>
+    <td>01/06/2023</td>
+  </tr>
+  <tr>
+    <td>A Machine learning certification</td>
+    <td>01/09/2023</td>
+  </tr>
+</table>
+
+# Contact me here:
+<form
+  action="https://formspree.io/f/mbjbalra"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
