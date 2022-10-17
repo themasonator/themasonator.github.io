@@ -1,8 +1,8 @@
 # About
 
-<div height = "100">
+<div style="height: auto;">
 <img src="images/profilePhoto.jpeg" width="100" height="100" align="left" style="margin: 0px 10px 0px 0px;"/>
-I am a Computer Science student from Bedford looking for Summer internships. 
+I am Harry Mason. I am educated in Computer Science and Mathematics. I am posting on
 </div>
 
 
