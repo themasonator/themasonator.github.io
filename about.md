@@ -1,6 +1,6 @@
 # About
 
-<img src="images/profilePhoto.jpeg" width="200" height="200" align="left"/>
+<img src="images/profilePhoto.jpeg" width="200" height="200" align="left" style=”margin: 0px 10px 0px 0px;”/>
 I am a Computer Science student from Bedford looking for Summer internships.
 
 
