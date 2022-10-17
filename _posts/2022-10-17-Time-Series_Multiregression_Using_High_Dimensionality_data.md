@@ -2311,7 +2311,7 @@ df["python"].plot()
 
 
 
-![png](https://themasonator.github.io/images/time-series-data/output_40_0.png)
+![png](/images/time-series-data/output_40_0.png)
 
 
 ### Analysis Through Decomposition
