@@ -2,7 +2,7 @@
 
 <div style="height: 100px;">
 <img src="images/profilePhoto.jpeg" width="100" height="100" align="left" style="margin: 0px 10px 0px 0px;"/>
-I am Harry Mason. I am university educated in Computer Science and an avid reader in Mathematics, particularly statistics. I am posting my personal projects on here, mostly concerning applications of deep learning and statistics.
+I am Harry Mason. I am university educated in Computer Science and an avid reader in Mathematics, particularly statistics. I am posting my personal projects on here, mostly consisting of applications of deep learning and statistics.
 </div>
 
 # Contact me here
