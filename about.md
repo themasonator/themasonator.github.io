@@ -35,18 +35,18 @@ I am Harry Mason. I am university educated in Computer Science and an avid reade
   </tr>
     </b>
   <tr>
+    <td>Deep Learning Specialization Certification</td>
+    <td>01/04/2023</td>
+  </tr>
+  <tr>
     <td>Skin Lesion Detection Using Image Classification</td>
-    <td>01/12/2022</td>
+    <td>01/09/2023</td>
   </tr>
   <tr>
     <th colspan="2">Planned Next Steps</th>
   </tr>
   <tr>
     <td>A natural language processing project</td>
-    <td>01/06/2023</td>
-  </tr>
-  <tr>
-    <td>A Machine learning certification</td>
-    <td>01/09/2023</td>
+    <td>by 2024</td>
   </tr>
 </table>
