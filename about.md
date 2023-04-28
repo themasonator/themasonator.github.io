@@ -35,10 +35,6 @@ I am Harry Mason. I am university educated in Computer Science and an avid reade
   </tr>
     </b>
   <tr>
-    <td>Deep Learning Specialization Certification</td>
-    <td>01/04/2023</td>
-  </tr>
-  <tr>
     <td>Skin Lesion Detection Using Image Classification</td>
     <td>01/09/2023</td>
   </tr>
