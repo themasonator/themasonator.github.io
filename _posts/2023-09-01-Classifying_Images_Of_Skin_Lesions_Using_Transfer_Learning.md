@@ -2,13 +2,13 @@
 
 ## The Dataset
 
-I used this dataset: https://www.kaggle.com/datasets/salviohexia/isic-2019-skin-lesion-images-for-classification.
+I used [this dataset](https://www.kaggle.com/datasets/salviohexia/isic-2019-skin-lesion-images-for-classification).
 
 I will be creating a baseline image classifier based on this data in order to introduce myself to working on the following subjects: large datasets, image processing, pytorch, use of GPUs, transfer learning, neural classifiers, Amazon S3 and bias and variance.
 
 ## Pre-Processing
 
-I looked here to find what to do when the classes are unbalanced: https://machinelearningmastery.com/multi-class-imbalanced-classification/ Therefore I deleted all NV elements until there were as many elements in there as in the second largest class. If I had more GPU time to experiment with, I believe SMOTE oversampling could be useful here.
+[I looked here to find what to do when the classes are unbalanced](https://machinelearningmastery.com/multi-class-imbalanced-classification/). Therefore I deleted all NV elements until there were as many elements in there as in the second largest class. If I had more GPU time to experiment with, I believe SMOTE oversampling could be useful here.
 
 As the test dataset must match the distribution, I will sample 10% for the train and dev sets from each class.
 
@@ -77,7 +77,7 @@ for obj in objects_to_delete:
 
 ## The Model
 
-I followed this guide to import the small mixnet model, which I chose due to its low compute needs relative to its performance: https://huggingface.co/docs/timm/models/tf-mixnet.
+I followed [this guide](https://huggingface.co/docs/timm/models/tf-mixnet) to import the small mixnet model, which I chose due to its low compute needs relative to its performance.
 
 
 ```python
