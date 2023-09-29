@@ -86,7 +86,7 @@ import timm
 model = timm.create_model('tf_mixnet_s', pretrained=True, num_classes=8)
 model.eval()
 ```
-
+<div overflow:scroll; height:150px>
     Collecting timm
       Obtaining dependency information for timm from https://files.pythonhosted.org/packages/7a/bd/2c56be7a3b5bc71cf85a405246b89d5359f942c9f7fb6db6306d9d056092/timm-0.9.7-py3-none-any.whl.metadata
       Downloading timm-0.9.7-py3-none-any.whl.metadata (58 kB)
@@ -752,8 +752,8 @@ model.eval()
       (global_pool): SelectAdaptivePool2d (pool_type=avg, flatten=Flatten(start_dim=1, end_dim=-1))
       (classifier): Linear(in_features=1536, out_features=8, bias=True)
     )
-
-
+    
+<\div>
 ```python
 from PIL import Image
 from io import BytesIO
@@ -1165,7 +1165,7 @@ accuracy = correct_predictions / total_samples
 print(f"Train Accuracy: {accuracy * 100:.2f}%")
 ```
 
-    Test Accuracy: 75.94%
+    Train Accuracy: 75.94%
 
 
 
