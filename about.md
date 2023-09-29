@@ -31,14 +31,6 @@ I am Harry Mason. I am university educated in Computer Science and an avid reade
     <th>Target Completion Date</th>
   </tr>
   <tr>
-    <th colspan="2">In Progress</th>
-  </tr>
-    </b>
-  <tr>
-    <td>Skin Lesion Detection Using Image Classification</td>
-    <td>01/09/2023</td>
-  </tr>
-  <tr>
     <th colspan="2">Planned Next Steps</th>
   </tr>
   <tr>
