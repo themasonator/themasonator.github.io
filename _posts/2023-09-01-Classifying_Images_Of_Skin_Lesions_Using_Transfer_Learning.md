@@ -520,7 +520,7 @@ print(f"Test Accuracy: {accuracy * 100:.2f}%")
     Test Accuracy: 63.36%
 
 
-The test set accuracy is in fact higher than the dev set accuracy, suggesting I the results also follow for the test set.
+The test set accuracy is in fact higher than the dev set accuracy, suggesting the results also follow for the test set.
 
 If I assumed that human-level performance were 90% accuracy, then I would calculate the bias this way:
 90 - 75.94 = 14.06%
@@ -529,7 +529,7 @@ and the variance this way:
 or perhaps this way:
 75.94 - 63.36 = 12.58%
 
-This indicates that the bias and variance are very similar and to improving the model I would prioritise reducing the bias. To do that I would use a bigger convolutional neural network or a transformer model, of which many are available as this model was selected primarily for its small size. If it hadn't already seemingly converged I could also train the model for even longer.
+This indicates that the bias and variance are very similar and to improve the model I would prioritise reducing the bias. To do that I would use a bigger convolutional neural network or a transformer model, of which many are available as this model was selected primarily for its small size. If it hadn't already seemingly converged I could also train the model for even longer.
 
 #### Citations
 - \[1\] Tschandl P., Rosendahl C. & Kittler H. The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions. Sci. Data 5, 180161 doi.10.1038/sdata.2018.161 (2018)
